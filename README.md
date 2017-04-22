@@ -10,7 +10,7 @@
 	Qb	==	mean annual base flow (1983-2000, mm/year) <br />
 	tb	==	Average time interval between rainfall events (1983-2000, day) <br />
 	N	==	Number of rainfall events (1983-2000, per year) <br />
-	dP*	==	Precipitation timing with respect to potential evaporation as a measure of seasonality (1983-2003, -)<br />
+	dP*	==	Seasonality of precipitation and the phase difference between precipitation and potential evaporation (1983-2003, -)<br />
 	NDVImax	==	Mean annual monthly maximum NDVI (1983-2000, -)<br />
 	Slope	==	Average slope (%)<br />
 	ksat	==	Saturated hydraulic conductivity (mm/hour) <br />
