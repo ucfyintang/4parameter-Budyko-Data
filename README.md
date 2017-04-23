@@ -11,7 +11,7 @@
 	tb	==	Average time interval between rainfall events (day) <br />
 	N	==	Number of rainfall events (per year) <br />
 	dP*	==	Seasonality of precipitation and the phase difference between precipitation and potential evaporation (-)<br />
-	NDVImax	==	Mean annual monthly maximum NDVI (-)<br />
+	NDVImax	==	Mean annual maximum NDVI (-)<br />
 	Slope	==	Average slope (%)<br />
 	ksat	==	Saturated hydraulic conductivity (mm/hour) <br />
 	wp	==	Permanent wilting point (-)<br />
