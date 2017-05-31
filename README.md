@@ -18,4 +18,4 @@
 	fc-nr	==	Difference between field capacity and residual soil moisture (-)<br />
 	Sb	==	Effective soil water storage capacity (mm) <br />
 3. References<br />
-Tang, Y., Wang, D., Evaluating the role of watershed properties in long-term water balance through a Budyko equation based on two-stage partitioning of precipitation, Water Resources Research, (under review)
+Tang, Y., Wang, D., Evaluating the role of watershed properties in long-term water balance through a Budyko equation based on two-stage partitioning of precipitation, Water Resources Research, in press, doi: 10.1002/2016WR019920.
